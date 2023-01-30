@@ -42,3 +42,25 @@ header img {
 .to-be-noted {
   background-color: #ffff00;
 }
+
+table {
+  -webkit-border-horizontal-spacing: 0px;
+  -webkit-border-vertical-spacing: 0px;
+}
+
+table th {
+  background-color: #20a9e5;
+}
+
+table tbody tr:first-child,
+table tbody tr:last-child {
+  background-color: #b1e5f2;
+}
+
+table th.wide {
+  text-align: left;
+}
+
+table .wide {
+  width: 300px;
+}
