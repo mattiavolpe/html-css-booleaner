@@ -34,3 +34,7 @@ header img {
   font-size: 14px;
   font-weight: 400;
 }
+
+#main-images > p {
+  margin: 2px;
+}
