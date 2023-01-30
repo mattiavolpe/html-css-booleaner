@@ -12,3 +12,25 @@ header img {
   height: 100px;
   margin-top: 50px;
 }
+
+#title > h1 {
+  font-size: 36px;
+  margin-bottom: 5px;
+}
+
+#title > p {
+  color: #8c8c8c;
+  margin: 5px 0;
+  font-weight: 600;
+}
+
+#title > p > a {
+  color: #6ac5ed;
+  text-decoration: none;
+  font-weight: 900;
+}
+
+#title > #date {
+  font-size: 14px;
+  font-weight: 400;
+}
