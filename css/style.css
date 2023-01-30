@@ -64,3 +64,36 @@ table th.wide {
 table .wide {
   width: 300px;
 }
+
+footer p {
+  color: #8c8c8c;
+  font-weight: 600;
+}
+
+.suggestion {
+  width: 300px;
+  height: 250px;
+}
+
+#suggest-1 {
+  background-image: url(./../img/monitor.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#suggest-2 {
+  background-image: url(./../img/graph.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.suggestion p {
+  color: #ffffff;
+  padding: 15px;
+}
+
+#copyright {
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+}
