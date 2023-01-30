@@ -44,8 +44,7 @@ header img {
 }
 
 table {
-  -webkit-border-horizontal-spacing: 0px;
-  -webkit-border-vertical-spacing: 0px;
+  border-spacing: 0;
 }
 
 table th {
