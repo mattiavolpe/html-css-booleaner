@@ -59,8 +59,7 @@ table th {
   background-color: #20a9e5;
 }
 
-table tbody tr:first-child,
-table tbody tr:last-child {
+.light-bg {
   background-color: #b1e5f2;
 }
 
